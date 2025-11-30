@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucas
 - 👀 I’m interested in biking, Gym training and yachting
-- 🌱 I’m currently learning programming machine learning models in python
+- 🌱 I’m currently learning deep learning models in python
 - Mail: Trzcionka.luk@gmail.com
 - Linkedin: https://www.linkedin.com/in/%C5%82ukasz-trzcionka-6b69b9234/
 
